@@ -1,3 +1,13 @@
+"""
+------------------------------- ------------------------------------------------------------
+* Fatec São Caetano do Sul                                                                   *
+* Atividade B1-1                                                                             *
+* *
+* Autor: 1681432612003 nome: Bruna Luíza Fortes Marques                             *
+* Objetivo: Fazer uma lista de impressão para alunos e administradores com prioridade para os administradores.       *
+* data: 01/03/2026                                                                           *
+---------------------------------------------------------------------------------------------
+"""
 fila_adm = []
 fila_alunos = []
 fila_impressao = []
